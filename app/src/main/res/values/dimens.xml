@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal">16dp</dimen>
+    <dimen name="half">8dp</dimen>
+    <dimen name="extended">24dp</dimen>
+    <dimen name="doubled">32dp</dimen>
+<dimen name="textM">14sp</dimen>
+<dimen name="textL">16sp</dimen>
+<dimen name="textXL">20sp</dimen>
+
+
+
+</resources>

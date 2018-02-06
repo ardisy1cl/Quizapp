@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+
+    <string name="userName">Enter your name, please!</string>
+    <string name="beforeSubmitting">Before submitting the answers, please agree on the following condition:</string>
+    <string name="condition">I hereby agree not to claim any prizes on completing the quiz. ;-)</string>
+    <string name="question1">1. Pick a number from 1 to 5!</string>
+    <string name="question2">2. How did Random Street get its name?</string>
+    <string name="q2Option1">It\'s named after the famous systemphilosopher Johann Random</string>
+    <string name="q2Option2">Every city has to have such street for statistical research purposes</string>
+    <string name="q2Option3">The City Council could not choose between two other names</string>
+    <string name="question3">3. What celebrities have lived on Random Street?</string>
+    <string name="questionMultipleNote">(There may be more than one correct answer)</string>
+    <string name="q3Option1">King Oscar VI</string>
+    <string name="q3Option2">Karl Bookmaker</string>
+    <string name="q3Option3">Johann Random</string>
+    <string name="q3Option4">Ann Ybody</string>
+    <string name="question4">4. When the oldest house in Random Street is built?</string>
+    <string name="q4Option1">1857</string>
+    <string name="q4Option2">1907</string>
+    <string name="q4Option3">1970</string>
+    <string name="q4Option4">1875</string>
+    <string name="question5">5. The number of houses on the side of odd numbers...</string>
+    <string name="q5Option1">is bigger that that on the side of even numbers</string>
+    <string name="q5Option2">is the same as that on the side of even numbers</string>
+    <string name="q5Option3">is smaller that that on the side of even numbers</string>
+    <string name="q5Option4">depends on which end of the street the observer is watching from</string>
+    <string name="question6">6. What significant building will open on Random Street 2018?</string>
+    <string name="q6Option1">The Random Theatre</string>
+    <string name="q6Option2">The Random Hotel</string>
+    <string name="q6Option3">The Random Object</string>
+    <string name="finalAnnouncementI">Congratulations, </string>
+    <string name="finalAnnouncementII">, your score is </string>
+    <string name="finalAnnouncementIII"> out of  21 possible.</string>
+    <string name="finalCommentA">You\'re the most random person we\'ve ever met!</string>
+    <string name="finalCommentB">Your amount of random knowledge is impressive!</string>
+    <string name="finalCommentC">You\'ve shown perfectly random results on the random topic!
+</string>
+    <string name="finalCommentD">You may have some issues with randomness; however, is it really important?</string>
+<string name="submit">Submit answers</string>
+    <string name="conditionReminder">Well, agree on the condition, please!</string>
+
+    </resources>
